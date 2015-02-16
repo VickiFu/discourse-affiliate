@@ -2,6 +2,7 @@ var addTagToEnd, universalCode;
 universalCode = {
     'amazon.co.uk': 'tag=',
     'amazon.com': 'tag=hear070-20',
+    'myhabit.com': 'tag=hear070-20',
     'amazon.de': 'tag=',
     'amazon.fr': 'tag=',
     'javari.co.uk': 'tag=',
